@@ -36,3 +36,4 @@ public class App5 { public static void main(String[] args) { System.out.println(
 public class App13 { public static void main(String[] args) { System.out.println("update 2024-04-22T13:41:05"); } }
 public class App74 { public static void main(String[] args) { System.out.println("update 2024-04-26T11:27:19"); } }
 public class App98 { public static void main(String[] args) { System.out.println("update 2024-05-15T10:33:27"); } }
+public class App87 { public static void main(String[] args) { System.out.println("update 2024-05-21T23:30:24"); } }
